@@ -1,0 +1,931 @@
+# Translation of Development (trunk) in Vietnamese
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-01 05:20:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: inc/class-fp-utils.php:1332
+msgid "Zimbabwe"
+msgstr "Dim-ba-bu-ê"
+
+#: inc/class-fp-utils.php:1322
+msgid "Yemen"
+msgstr "Y-ê-men"
+
+#: inc/class-fp-utils.php:1327
+msgid "Zambia"
+msgstr "Dăm-bi-a"
+
+#: inc/class-fp-utils.php:1307
+msgid "Vietnam"
+msgstr "Việt Nam"
+
+#: inc/class-fp-utils.php:1312
+msgid "Wallis and Futuna"
+msgstr "Wallis và Futuna"
+
+#: inc/class-fp-utils.php:1317
+msgid "Western Sahara"
+msgstr "Tây Sahara"
+
+#: inc/class-fp-utils.php:1292
+msgid "Uzbekistan"
+msgstr "U-dơ-bê-ki-xtan"
+
+#: inc/class-fp-utils.php:1297
+msgid "Vanuatu"
+msgstr "Va-nu-a-tu"
+
+#: inc/class-fp-utils.php:1302
+msgid "Venezuela"
+msgstr "Vê-nê-zu-ê-la"
+
+#: inc/class-fp-utils.php:1282
+msgid "United States"
+msgstr "Hoa Kỳ"
+
+#: inc/class-fp-utils.php:1287
+msgid "Uruguay"
+msgstr "U-ru-goay"
+
+#: inc/class-fp-utils.php:1267
+msgid "Ukraine"
+msgstr "U-crai-na"
+
+#: inc/class-fp-utils.php:1272
+msgid "United Arab Emirates"
+msgstr "Các Tiểu Vương quốc A-rập Thống nhất"
+
+#: inc/class-fp-utils.php:1277
+msgid "United Kingdom"
+msgstr "Vương quốc Anh"
+
+#: inc/class-fp-utils.php:1252
+msgid "Turks and Caicos Islands"
+msgstr "Turks và quần đảo Caicos"
+
+#: inc/class-fp-utils.php:1257
+msgid "Tuvalu"
+msgstr "Tu-va-lu"
+
+#: inc/class-fp-utils.php:1262
+msgid "Uganda"
+msgstr "U-gan-đa"
+
+#: inc/class-fp-utils.php:1237
+msgid "Tunisia"
+msgstr "Tuy-ni-di"
+
+#: inc/class-fp-utils.php:1242
+msgid "Turkey"
+msgstr "Thổ Nhĩ Kỳ"
+
+#: inc/class-fp-utils.php:1247
+msgid "Turkmenistan"
+msgstr "Tuốc-mê-ni-xtan"
+
+#: inc/class-fp-utils.php:1222
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: inc/class-fp-utils.php:1227
+msgid "Tonga"
+msgstr "Tông-ga"
+
+#: inc/class-fp-utils.php:1232
+msgid "Trinidad and Tobago"
+msgstr "Tri-ni-đát và Tô-ba-gô"
+
+#: inc/class-fp-utils.php:1212
+msgid "East Timor"
+msgstr "Đông Ti-mo"
+
+#: inc/class-fp-utils.php:1217
+msgid "Togo"
+msgstr "Tô-gô"
+
+#: inc/class-fp-utils.php:1197
+msgid "Tajikistan"
+msgstr "Tát-gi-ki-xtan"
+
+#: inc/class-fp-utils.php:1202
+msgid "Tanzania"
+msgstr "Tan-da-ni-a"
+
+#: inc/class-fp-utils.php:1207
+msgid "Thailand"
+msgstr "Thái Lan"
+
+#: inc/class-fp-utils.php:1187
+msgid "Syria"
+msgstr "Syria"
+
+#: inc/class-fp-utils.php:1192
+msgid "Taiwan"
+msgstr "Đài Loan"
+
+#: inc/class-fp-utils.php:1172
+msgid "Swaziland"
+msgstr "Xoa-di-len"
+
+#: inc/class-fp-utils.php:1177
+msgid "Sweden"
+msgstr "Thụy Điển"
+
+#: inc/class-fp-utils.php:1182
+msgid "Switzerland"
+msgstr "Thụy Sĩ"
+
+#: inc/class-fp-utils.php:1157
+msgid "Sudan"
+msgstr "Xu-đăng"
+
+#: inc/class-fp-utils.php:1162
+msgid "Suriname"
+msgstr "Xu-ri-nam"
+
+#: inc/class-fp-utils.php:1167
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard và Jan Mayen"
+
+#: inc/class-fp-utils.php:1142
+msgid "South Sudan"
+msgstr "Nam Sudan"
+
+#: inc/class-fp-utils.php:1147
+msgid "Spain"
+msgstr "Tây Ban Nha"
+
+#: inc/class-fp-utils.php:1152
+msgid "Sri Lanka"
+msgstr "Xri Lan-ca"
+
+#: inc/class-fp-utils.php:1132
+msgid "South Georgia"
+msgstr "South Georgia"
+
+#: inc/class-fp-utils.php:1137
+msgid "South Korea"
+msgstr "Hàn Quốc"
+
+#: inc/class-fp-utils.php:1117
+msgid "Solomon Islands"
+msgstr "Quần đảo Xô-lô-mông"
+
+#: inc/class-fp-utils.php:1122
+msgid "Somalia"
+msgstr "Xô-ma-li"
+
+#: inc/class-fp-utils.php:1127
+msgid "South Africa"
+msgstr "Nam Phi"
+
+#: inc/class-fp-utils.php:1107
+msgid "Slovakia"
+msgstr "Xlô-va-ki-a"
+
+#: inc/class-fp-utils.php:1112
+msgid "Slovenia"
+msgstr "Xlô-ven-ni-a"
+
+#: inc/class-fp-utils.php:1092
+msgid "Sierra Leone"
+msgstr "Xi-ê-ra Lê-ôn"
+
+#: inc/class-fp-utils.php:1097
+msgid "Singapore"
+msgstr "Xin-ga-po"
+
+#: inc/class-fp-utils.php:1077
+msgid "Senegal"
+msgstr "Xê-nê-gan"
+
+#: inc/class-fp-utils.php:1082
+msgid "Serbia"
+msgstr "Xéc-bi"
+
+#: inc/class-fp-utils.php:1087
+msgid "Seychelles"
+msgstr "Xây-sen"
+
+#: inc/class-fp-utils.php:1072
+msgid "Saudi Arabia"
+msgstr "A-rập Xê-út"
+
+#: inc/class-fp-utils.php:1057
+msgid "Samoa"
+msgstr "Xa-moa"
+
+#: inc/class-fp-utils.php:1062
+msgid "San Marino"
+msgstr "Xan Ma-ri-nô"
+
+#: inc/class-fp-utils.php:1037
+msgid "Saint Lucia"
+msgstr "Xan Lu-xi"
+
+#: inc/class-fp-utils.php:1047
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre và Miquelon"
+
+#: inc/class-fp-utils.php:1052
+msgid "Saint Vincent and the Grenadines"
+msgstr "Xan Vin-xen và Grê-na-din"
+
+#: inc/class-fp-utils.php:1017
+msgid "Rwanda"
+msgstr "Ru-an-đa"
+
+#: inc/class-fp-utils.php:1027
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+#: inc/class-fp-utils.php:1032
+msgid "Saint Kitts and Nevis"
+msgstr "Xan-kít và Nê-vi"
+
+#: inc/class-fp-utils.php:1007
+msgid "Romania"
+msgstr "Ru-ma-ni"
+
+#: inc/class-fp-utils.php:1012
+msgid "Russia"
+msgstr "Nga"
+
+#: inc/class-fp-utils.php:992
+msgid "Qatar"
+msgstr "Ca-ta"
+
+#: inc/class-fp-utils.php:982
+msgid "Portugal"
+msgstr "Bồ Đào Nha"
+
+#: inc/class-fp-utils.php:987
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: inc/class-fp-utils.php:962
+msgid "Peru"
+msgstr "Pê-ru"
+
+#: inc/class-fp-utils.php:967
+msgid "Philippines"
+msgstr "Phi-lip-pin"
+
+#: inc/class-fp-utils.php:977
+msgid "Poland"
+msgstr "Ba Lan"
+
+#: inc/class-fp-utils.php:952
+msgid "Papua New Guinea"
+msgstr "Pa-pu-a Niu Ghi-nê"
+
+#: inc/class-fp-utils.php:957
+msgid "Paraguay"
+msgstr "Pa-ra-goay"
+
+#: inc/class-fp-utils.php:947
+msgid "Panama"
+msgstr "Pa-na-ma"
+
+#: inc/class-fp-utils.php:927
+msgid "Oman"
+msgstr "Ô-man"
+
+#: inc/class-fp-utils.php:932
+msgid "Pakistan"
+msgstr "Pa-ki-xtan"
+
+#: inc/class-fp-utils.php:937
+msgid "Palau"
+msgstr "Palau"
+
+#: inc/class-fp-utils.php:917
+msgid "Northern Mariana Islands"
+msgstr "Quần đảo Bắc Mariana"
+
+#: inc/class-fp-utils.php:922
+msgid "Norway"
+msgstr "Na Uy"
+
+#: inc/class-fp-utils.php:902
+msgid "Niue"
+msgstr "Niue"
+
+#: inc/class-fp-utils.php:907
+msgid "Norfolk Island"
+msgstr "Norfolk Island"
+
+#: inc/class-fp-utils.php:912
+msgid "North Korea"
+msgstr "Bắc Triều Tiên"
+
+#: inc/class-fp-utils.php:892
+msgid "Niger"
+msgstr "Ni-giê"
+
+#: inc/class-fp-utils.php:897
+msgid "Nigeria"
+msgstr "Ni-giê-ri-a"
+
+#: inc/class-fp-utils.php:877
+msgid "New Caledonia"
+msgstr "New Caledonia"
+
+#: inc/class-fp-utils.php:882
+msgid "New Zealand"
+msgstr "Niu Di-lân"
+
+#: inc/class-fp-utils.php:887
+msgid "Nicaragua"
+msgstr "Ni-ca-ra-goa"
+
+#: inc/class-fp-utils.php:867
+msgid "Nepal"
+msgstr "Nê-pan"
+
+#: inc/class-fp-utils.php:872
+msgid "Netherlands"
+msgstr "Hà Lan"
+
+#: inc/class-fp-utils.php:852
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: inc/class-fp-utils.php:857
+msgid "Namibia"
+msgstr "Nam-mi-bi-a"
+
+#: inc/class-fp-utils.php:862
+msgid "Nauru"
+msgstr "Nauru"
+
+#: inc/class-fp-utils.php:842
+msgid "Morocco"
+msgstr "Ma-rốc"
+
+#: inc/class-fp-utils.php:847
+msgid "Mozambique"
+msgstr "Mô-dăm-bích"
+
+#: inc/class-fp-utils.php:827
+msgid "Mongolia"
+msgstr "Mông Cổ"
+
+#: inc/class-fp-utils.php:832
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: inc/class-fp-utils.php:837
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: inc/class-fp-utils.php:817
+msgid "Moldova"
+msgstr "Môn-đô-va"
+
+#: inc/class-fp-utils.php:822
+msgid "Monaco"
+msgstr "Mô-na-cô"
+
+#: inc/class-fp-utils.php:802
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: inc/class-fp-utils.php:807
+msgid "Mexico"
+msgstr "Mê-hi-cô"
+
+#: inc/class-fp-utils.php:792
+msgid "Mauritania"
+msgstr "Mô-ri-ta-ni"
+
+#: inc/class-fp-utils.php:797
+msgid "Mauritius"
+msgstr "Mô-ri-xơ"
+
+#: inc/class-fp-utils.php:787
+msgid "Martinique"
+msgstr "Martinique"
+
+#: inc/class-fp-utils.php:777
+msgid "Malta"
+msgstr "Man-ta"
+
+#: inc/class-fp-utils.php:782
+msgid "Marshall Islands"
+msgstr "Quần đảo Mác-san"
+
+#: inc/class-fp-utils.php:767
+msgid "Maldives"
+msgstr "Man-đi-vơ"
+
+#: inc/class-fp-utils.php:772
+msgid "Mali"
+msgstr "Ma-li"
+
+#: inc/class-fp-utils.php:752
+msgid "Madagascar"
+msgstr "Ma-đa-gát-xca"
+
+#: inc/class-fp-utils.php:757
+msgid "Malawi"
+msgstr "Ma-la-uy"
+
+#: inc/class-fp-utils.php:762
+msgid "Malaysia"
+msgstr "Ma-lay-xi-a"
+
+#: inc/class-fp-utils.php:742
+msgid "Macau"
+msgstr "Đặc khu hành chính Macao thuộc CHND Trung Hoa"
+
+#: inc/class-fp-utils.php:727
+msgid "Liechtenstein"
+msgstr "Lich-ten-xtên"
+
+#: inc/class-fp-utils.php:732
+msgid "Lithuania"
+msgstr "Li-tu-a-ni-a"
+
+#: inc/class-fp-utils.php:737
+msgid "Luxembourg"
+msgstr "Lúc-xăm-bua"
+
+#: inc/class-fp-utils.php:717
+msgid "Liberia"
+msgstr "Li-bê-ri-a"
+
+#: inc/class-fp-utils.php:722
+msgid "Libya"
+msgstr "Li-bi"
+
+#: inc/class-fp-utils.php:702
+msgid "Latvia"
+msgstr "Lát-vi-a"
+
+#: inc/class-fp-utils.php:707
+msgid "Lebanon"
+msgstr "Li-băng"
+
+#: inc/class-fp-utils.php:712
+msgid "Lesotho"
+msgstr "Lê-xô-thô"
+
+#: inc/class-fp-utils.php:692
+msgid "Kyrgyzstan"
+msgstr "Cư-rơ-gư-xtan"
+
+#: inc/class-fp-utils.php:697
+msgid "Laos"
+msgstr "Lào"
+
+#: inc/class-fp-utils.php:682
+msgid "Kiribati"
+msgstr "Ki-ri-ba-ti"
+
+#: inc/class-fp-utils.php:687
+msgid "Kuwait"
+msgstr "Cô-oét"
+
+#: inc/class-fp-utils.php:667
+msgid "Jordan"
+msgstr "Gióc-đa-ni"
+
+#: inc/class-fp-utils.php:672
+msgid "Kazakhstan"
+msgstr "Ka-dắc-xtan"
+
+#: inc/class-fp-utils.php:677
+msgid "Kenya"
+msgstr "Kê-ni-a"
+
+#: inc/class-fp-utils.php:657
+msgid "Japan"
+msgstr "Nhật Bản"
+
+#: inc/class-fp-utils.php:662
+msgid "Jersey"
+msgstr "Jersey"
+
+#: inc/class-fp-utils.php:652
+msgid "Jamaica"
+msgstr "Ha-mai-ca"
+
+#: inc/class-fp-utils.php:642
+msgid "Israel"
+msgstr "I-xra-en"
+
+#: inc/class-fp-utils.php:647
+msgid "Italy"
+msgstr "Ý"
+
+#: inc/class-fp-utils.php:627
+msgid "Iraq"
+msgstr "I-rắc"
+
+#: inc/class-fp-utils.php:632
+msgid "Republic of Ireland"
+msgstr "Cộng hòa Ireland"
+
+#: inc/class-fp-utils.php:637
+msgid "Isle of Man"
+msgstr "Đảo Man"
+
+#: inc/class-fp-utils.php:612
+msgid "Indonesia"
+msgstr "Nam Dương"
+
+#: inc/class-fp-utils.php:617
+msgid "Ivory Coast"
+msgstr "Bờ biển Ngà"
+
+#: inc/class-fp-utils.php:622
+msgid "Iran"
+msgstr "I-ran"
+
+#: inc/class-fp-utils.php:597
+msgid "Hungary"
+msgstr "Hung-ga-ri"
+
+#: inc/class-fp-utils.php:602
+msgid "Iceland"
+msgstr "Ai-xơ-len"
+
+#: inc/class-fp-utils.php:607
+msgid "India"
+msgstr "Ấn Độ"
+
+#: inc/class-fp-utils.php:587
+msgid "Honduras"
+msgstr "Hôn-đu-rát"
+
+#: inc/class-fp-utils.php:592
+msgid "Hong Kong"
+msgstr "Đặc khu hành chính Hồng Kông thuộc CHND Trung Hoa"
+
+#: inc/class-fp-utils.php:577
+msgid "Haiti"
+msgstr "Ha-i-ti"
+
+#: inc/class-fp-utils.php:582
+msgid "Heard Island and McDonald Islands"
+msgstr "Đảo Heard và quần đảo McDonald"
+
+#: inc/class-fp-utils.php:562
+msgid "Guinea"
+msgstr "Ghi-nê"
+
+#: inc/class-fp-utils.php:567
+msgid "Guinea-Bissau"
+msgstr "Ghi-nê Bít-xao"
+
+#: inc/class-fp-utils.php:572
+msgid "Guyana"
+msgstr "Guy-a-na"
+
+#: inc/class-fp-utils.php:552
+msgid "Guatemala"
+msgstr "Goa-tê-ma-la"
+
+#: inc/class-fp-utils.php:557
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: inc/class-fp-utils.php:547
+msgid "Guam"
+msgstr "Guam"
+
+#: inc/class-fp-utils.php:537
+msgid "Grenada"
+msgstr "Grê-na-đa"
+
+#: inc/class-fp-utils.php:542
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: inc/class-fp-utils.php:527
+msgid "Greece"
+msgstr "Hy Lạp"
+
+#: inc/class-fp-utils.php:532
+msgid "Greenland"
+msgstr "Greenland"
+
+#: inc/class-fp-utils.php:512
+msgid "Germany"
+msgstr "Đức"
+
+#: inc/class-fp-utils.php:517
+msgid "Ghana"
+msgstr "Gha-na"
+
+#: inc/class-fp-utils.php:522
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: inc/class-fp-utils.php:497
+msgid "Gabon"
+msgstr "Ga-bông"
+
+#: inc/class-fp-utils.php:507
+msgid "Georgia"
+msgstr "Gru-di-a"
+
+#: inc/class-fp-utils.php:477
+msgid "France"
+msgstr "Pháp"
+
+#: inc/class-fp-utils.php:482
+msgid "French Guiana"
+msgstr "Guyane thuộc Pháp"
+
+#: inc/class-fp-utils.php:487
+msgid "French Polynesia"
+msgstr "Polynesia thuộc Pháp"
+
+#: inc/class-fp-utils.php:467
+msgid "Fiji"
+msgstr "Phi-gi"
+
+#: inc/class-fp-utils.php:472
+msgid "Finland"
+msgstr "Phần Lan"
+
+#: inc/class-fp-utils.php:457
+msgid "Falkland Islands"
+msgstr "Quần đảo Falkland"
+
+#: inc/class-fp-utils.php:462
+msgid "Faroe Islands"
+msgstr "Quần đảo Faroe"
+
+#: inc/class-fp-utils.php:442
+msgid "Eritrea"
+msgstr "Ê-ri-tơ-rê-a"
+
+#: inc/class-fp-utils.php:447
+msgid "Estonia"
+msgstr "E-xtô-ni-a"
+
+#: inc/class-fp-utils.php:452
+msgid "Ethiopia"
+msgstr "Ê-ti-ô-pi-a"
+
+#: inc/class-fp-utils.php:432
+msgid "El Salvador"
+msgstr "En-san-va-đo"
+
+#: inc/class-fp-utils.php:437
+msgid "Equatorial Guinea"
+msgstr "Ghi-nê Xích-đạo"
+
+#: inc/class-fp-utils.php:417
+msgid "Dominican Republic"
+msgstr "Cộng hoà Đô-mi-ni-ca"
+
+#: inc/class-fp-utils.php:422
+msgid "Ecuador"
+msgstr "Ê-cu-a-đo"
+
+#: inc/class-fp-utils.php:427
+msgid "Egypt"
+msgstr "Ai Cập"
+
+#: inc/class-fp-utils.php:412
+msgid "Dominica"
+msgstr "Dominica"
+
+#: inc/class-fp-utils.php:397
+msgid "Czech Republic"
+msgstr "Cộng hòa Séc"
+
+#: inc/class-fp-utils.php:402
+msgid "Denmark"
+msgstr "Đan Mạch"
+
+#: inc/class-fp-utils.php:407
+msgid "Djibouti"
+msgstr "Gi-bu-ti"
+
+#: inc/class-fp-utils.php:377
+msgid "Croatia"
+msgstr "Crô-a-ti-a"
+
+#: inc/class-fp-utils.php:382
+msgid "Cuba"
+msgstr "Cu Ba"
+
+#: inc/class-fp-utils.php:392
+msgid "Cyprus"
+msgstr "Síp"
+
+#: inc/class-fp-utils.php:372
+msgid "Costa Rica"
+msgstr "Cốt-xta Ri-ca"
+
+#: inc/class-fp-utils.php:357
+msgid "Republic of the Congo"
+msgstr "Công-gô"
+
+#: inc/class-fp-utils.php:362
+msgid "Democratic Republic of the Congo"
+msgstr "Cộng hoà dân chủ Côngô"
+
+#: inc/class-fp-utils.php:367
+msgid "Cook Islands"
+msgstr "Quần đảo Cook"
+
+#: inc/class-fp-utils.php:342
+msgid "Cocos (Keeling) Islands"
+msgstr "Quần đảo Cocos (Keeling)"
+
+#: inc/class-fp-utils.php:347
+msgid "Colombia"
+msgstr "Cô-lôm-bi-a"
+
+#: inc/class-fp-utils.php:352
+msgid "Comoros"
+msgstr "Cô-mô"
+
+#: inc/class-fp-utils.php:327
+msgid "Chile"
+msgstr "Chi-lê"
+
+#: inc/class-fp-utils.php:332
+msgid "China"
+msgstr "Trung Quốc"
+
+#: inc/class-fp-utils.php:337
+msgid "Christmas Island"
+msgstr "Christmas Island"
+
+#: inc/class-fp-utils.php:312
+msgid "Cayman Islands"
+msgstr "Quần đảo Cayman"
+
+#: inc/class-fp-utils.php:317
+msgid "Central African Republic"
+msgstr "Cộng hòa Trung Phi"
+
+#: inc/class-fp-utils.php:322
+msgid "Chad"
+msgstr "Sát"
+
+#: inc/class-fp-utils.php:307
+msgid "Cape Verde"
+msgstr "Cáp-ve"
+
+#: inc/class-fp-utils.php:292
+msgid "Cambodia"
+msgstr "Campuchia"
+
+#: inc/class-fp-utils.php:297
+msgid "Cameroon"
+msgstr "Ca-mơ-run"
+
+#: inc/class-fp-utils.php:302
+msgid "Canada"
+msgstr "Ca-na-đa"
+
+#: inc/class-fp-utils.php:277
+msgid "Bulgaria"
+msgstr "Bun-ga-ri"
+
+#: inc/class-fp-utils.php:282
+msgid "Burkina Faso"
+msgstr "Buốc-ki-na Pha-xô"
+
+#: inc/class-fp-utils.php:287
+msgid "Burundi"
+msgstr "Bu-run-đi"
+
+#: inc/class-fp-utils.php:267
+msgid "British Virgin Islands"
+msgstr "Quần đảo British Virgin"
+
+#: inc/class-fp-utils.php:272
+msgid "Brunei"
+msgstr "Bru-nây"
+
+#: inc/class-fp-utils.php:257
+msgid "British Indian Ocean Territory"
+msgstr "Lãnh thổ Ấn Độ Dương thuộc Anh"
+
+#: inc/class-fp-utils.php:242
+msgid "Botswana"
+msgstr "Bốt-xoa-na"
+
+#: inc/class-fp-utils.php:247
+msgid "Bouvet Island"
+msgstr "Đảo Bouvet"
+
+#: inc/class-fp-utils.php:252
+msgid "Brazil"
+msgstr "Bra-xin"
+
+#: inc/class-fp-utils.php:222
+msgid "Bhutan"
+msgstr "Bu-tan (Bhutan)"
+
+#: inc/class-fp-utils.php:227
+msgid "Bolivia"
+msgstr "Bô-li-vi-a"
+
+#: inc/class-fp-utils.php:237
+msgid "Bosnia and Herzegovina"
+msgstr "Bô-xni-a Héc-xê-gô-vi-na"
+
+#: inc/class-fp-utils.php:217
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: inc/class-fp-utils.php:212
+msgid "Benin"
+msgstr "Bê-nanh"
+
+#: inc/class-fp-utils.php:202
+msgid "Belgium"
+msgstr "Bỉ"
+
+#: inc/class-fp-utils.php:207
+msgid "Belize"
+msgstr "Bê-li-xê"
+
+#: inc/class-fp-utils.php:192
+msgid "Barbados"
+msgstr "Bác-ba-đốt"
+
+#: inc/class-fp-utils.php:197
+msgid "Belarus"
+msgstr "Bê-la-rút"
+
+#: inc/class-fp-utils.php:187
+msgid "Bangladesh"
+msgstr "Băng-la-đét"
+
+#: inc/class-fp-utils.php:172
+msgid "Azerbaijan"
+msgstr "Ai-déc-bai-gian"
+
+#: inc/class-fp-utils.php:182
+msgid "Bahrain"
+msgstr "Ba-ren"
+
+#: inc/class-fp-utils.php:167
+msgid "Austria"
+msgstr "Áo"
+
+#: inc/class-fp-utils.php:157
+msgid "Aruba"
+msgstr "Aruba"
+
+#: inc/class-fp-utils.php:162
+msgid "Australia"
+msgstr "Úc"
+
+#: inc/class-fp-utils.php:147
+msgid "Argentina"
+msgstr "Ác-hen-ti-na"
+
+#: inc/class-fp-utils.php:152
+msgid "Armenia"
+msgstr "Ác-mê-ni-a"
+
+#: inc/class-fp-utils.php:137
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: inc/class-fp-utils.php:142
+msgid "Antigua and Barbuda"
+msgstr "An-ti-gu-a và Ba-bu-đa"
+
+#: inc/class-fp-utils.php:132
+msgid "Angola"
+msgstr "Ăng-gô-la"
+
+#: inc/class-fp-utils.php:122
+msgid "American Samoa"
+msgstr "American Samoa"
+
+#: inc/class-fp-utils.php:127
+msgid "Andorra"
+msgstr "Andorra"
+
+#: inc/class-fp-utils.php:112
+msgid "Albania"
+msgstr "An-ba-ni"
+
+#: inc/class-fp-utils.php:117
+msgid "Algeria"
+msgstr "An-giê-ri"
+
+#: inc/class-fp-utils.php:102
+msgid "Afghanistan"
+msgstr "Áp-ga-ni-xtan"
